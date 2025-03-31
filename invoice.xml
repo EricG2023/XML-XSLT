@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="invoice.xsl"?>
+<invoice>
+    <company>
+        <name>John Stock</name>
+        <address>123 Main Street, Spokane</address>
+    </company>
+    <customer>
+        <name>Eric G</name>
+        <address>456 Main Street, Spokane</address>
+    </customer>
+    <items>
+        <item>
+            <description>Product A</description>
+            <quantity>2</quantity>
+            <price>10.00</price>
+        </item>
+        <item>
+            <description>Product B</description>
+            <quantity>1</quantity>
+            <price>20.00</price>
+        </item>
+    </items>
+    <total>30.00</total>
+</invoice>
