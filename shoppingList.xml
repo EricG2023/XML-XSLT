@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="shoppingList.xsl"?>
+<shoppingList>
+    <store>
+        <name>Fresh Market</name>
+        <location> Grocery Store, Spokane</location>
+    </store>
+    <shopper>
+        <name>Eric G</name>
+        <date>2025-03-31</date>
+    </shopper>
+    <items>
+        <item>
+            <name>Apples</name>
+            <quantity>5</quantity>
+            <category>Fruits</category>
+            <price>1.20</price>
+        </item>
+        <item>
+            <name>Milk</name>
+            <quantity>1</quantity>
+            <category>Dairy</category>
+            <price>3.50</price>
+        </item>
+        <item>
+            <name>Bread</name>
+            <quantity>2</quantity>
+            <category>Bakery</category>
+            <price>2.00</price>
+        </item>
+    </items>
+</shoppingList>
